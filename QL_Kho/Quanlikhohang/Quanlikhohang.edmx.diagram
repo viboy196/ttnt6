@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="709c15f8d49b437885cbd575cd9518fa" Name="Diagram1">
+        <EntityTypeShape EntityType="N11_QLNguyenLieuNhaHang_T5Model.BienBanThanhLy" Width="1.5" PointX="3" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="N11_QLNguyenLieuNhaHang_T5Model.ChiTietBBTL" Width="1.5" PointX="5.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="N11_QLNguyenLieuNhaHang_T5Model.ChiTietHDN" Width="1.5" PointX="8.25" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="N11_QLNguyenLieuNhaHang_T5Model.ChiTietPDNL" Width="1.5" PointX="8.25" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="N11_QLNguyenLieuNhaHang_T5Model.ChiTietPTK" Width="1.5" PointX="5.25" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="N11_QLNguyenLieuNhaHang_T5Model.HoaDonNhapNL" Width="1.5" PointX="3" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="N11_QLNguyenLieuNhaHang_T5Model.NguyenLieu" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="N11_QLNguyenLieuNhaHang_T5Model.NhaCungCap" Width="1.5" PointX="3.75" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="N11_QLNguyenLieuNhaHang_T5Model.NhanVien" Width="1.5" PointX="0.75" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="N11_QLNguyenLieuNhaHang_T5Model.PhieuDatNL" Width="1.5" PointX="6" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="N11_QLNguyenLieuNhaHang_T5Model.PhieuThongKe" Width="1.5" PointX="3" PointY="14.375" IsExpanded="true" />
+        <AssociationConnector Association="N11_QLNguyenLieuNhaHang_T5Model.FK__BienBanTha__MaNV__5812160E" ManuallyRouted="false" />
+        <AssociationConnector Association="N11_QLNguyenLieuNhaHang_T5Model.FK__ChiTietBBT__MaBB__5AEE82B9" ManuallyRouted="false" />
+        <AssociationConnector Association="N11_QLNguyenLieuNhaHang_T5Model.FK__ChiTietBBT__MaNL__5BE2A6F2" ManuallyRouted="false" />
+        <AssociationConnector Association="N11_QLNguyenLieuNhaHang_T5Model.FK__ChiTietHDN__MaHD__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="N11_QLNguyenLieuNhaHang_T5Model.FK__ChiTietHDN__MaNL__4CA06362" ManuallyRouted="false" />
+        <AssociationConnector Association="N11_QLNguyenLieuNhaHang_T5Model.FK__ChiTietPD__MaPDN__4316F928" ManuallyRouted="false" />
+        <AssociationConnector Association="N11_QLNguyenLieuNhaHang_T5Model.FK__ChiTietPDN__MaNL__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="N11_QLNguyenLieuNhaHang_T5Model.FK__ChiTietPT__MaPTK__534D60F1" ManuallyRouted="false" />
+        <AssociationConnector Association="N11_QLNguyenLieuNhaHang_T5Model.FK__ChiTietPTK__MaNL__5441852A" ManuallyRouted="false" />
+        <AssociationConnector Association="N11_QLNguyenLieuNhaHang_T5Model.FK__HoaDonNha__MaPDN__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="N11_QLNguyenLieuNhaHang_T5Model.FK__HoaDonNhap__MaNV__48CFD27E" ManuallyRouted="false" />
+        <AssociationConnector Association="N11_QLNguyenLieuNhaHang_T5Model.FK__PhieuDatN__MaNCC__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="N11_QLNguyenLieuNhaHang_T5Model.FK__PhieuDatNL__MaNV__403A8C7D" ManuallyRouted="false" />
+        <AssociationConnector Association="N11_QLNguyenLieuNhaHang_T5Model.FK__PhieuThong__MaNV__5070F446" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

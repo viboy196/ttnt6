@@ -1,0 +1,73 @@
+﻿@model IEnumerable<QLNS.Models.entity.HopDong>
+
+@{
+    ViewBag.Title = "KetQuaTimKiem";
+    Layout = "~/Views/Shared/QLNS.cshtml";
+}
+
+<h2>Kết quả tìm kiếm hợp đồng</h2>
+<div>@ViewBag.ThongBao</div>
+<div class="col-md-4">
+    <div class="form-search">
+        @using (Html.BeginForm("KetQuaTimKiem", "HopDong", FormMethod.Post))
+        {
+            @Html.TextBox("timkiem", "", htmlAttributes: new { @class = "boxTimkiem", @placeholder = "Tìm kiếm ..." })
+            @*button type="submit" class="btn" value="">click me</button>*@
+            <input type="submit" value="Tìm" />
+            @*<button type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>*@
+        }
+        @*<input type="text" class="input-medium search-query">*@
+    </div>
+</div>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MaHD)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LoaiHD)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TuNgay)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DenNgay)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NhanVien.HoTen)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaHD)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LoaiHD)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TuNgay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DenNgay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhanVien.HoTen)
+            </td>
+            <td>
+                @*@Html.ActionLink("Edit", "Edit", new { id = item.MaHD }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.MaHD }) |*@
+                @Html.ActionLink("Xóa", "Xoa", new { @Mahd = item.MaHD })
+            </td>
+        </tr>
+    }
+
+</table>
+<hr>
+@Html.ActionLink("Trở về", "Index")
+</hr>

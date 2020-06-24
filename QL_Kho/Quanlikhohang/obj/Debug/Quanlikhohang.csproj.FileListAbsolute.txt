@@ -1,0 +1,422 @@
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\bin\Debug\Quanlikhohang.exe.config
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\bin\Debug\Quanlikhohang.exe
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\bin\Debug\Quanlikhohang.pdb
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\obj\Debug\Quanlikhohang.csprojAssemblyReference.cache
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\obj\Debug\Quanlikhohang.Properties.Resources.resources
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.GenerateResource.cache
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.CoreCompileInputs.cache
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\obj\Debug\Quanlikhohang.exe
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\obj\Debug\Quanlikhohang.pdb
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\obj\Debug\Quanlikhohang.FrmDanhmuc.resources
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\obj\Debug\Quanlikhohang.FrmThanhli.resources
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\bin\Debug\EntityFramework.dll
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\bin\Debug\EntityFramework.xml
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.CopyComplete
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\obj\Debug\Quanlikhohang.ThemNL.resources
+C:\Users\Kim Minh\source\repos\Quanlikhohang\Quanlikhohang\obj\Debug\Quanlikhohang.frmDangnhap.resources
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Quanlikhohang.exe.config
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Quanlikhohang.exe
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Quanlikhohang.pdb
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\EntityFramework.dll
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\EntityFramework.xml
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.csprojAssemblyReference.cache
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.frmDangnhap.resources
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.FrmDanhmuc.resources
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.FrmThanhli.resources
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.Properties.Resources.resources
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.ThemNL.resources
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.GenerateResource.cache
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.CopyComplete
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.exe
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.pdb
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.NghiepVu.frmNghiepVu.resources
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\System.IO.Packaging.dll
+C:\Users\Nguyen Thanh\source\repos\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\DocumentFormat.OpenXml.xml
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Quanlikhohang.exe.config
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Quanlikhohang.exe
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Quanlikhohang.pdb
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\DocumentFormat.OpenXml.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\EntityFramework.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\EntityFramework.SqlServer.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\System.IO.Packaging.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\DocumentFormat.OpenXml.xml
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\EntityFramework.xml
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\EntityFramework.SqlServer.xml
+D:\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.csprojAssemblyReference.cache
+D:\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.frmDangnhap.resources
+D:\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.FrmDanhmuc.resources
+D:\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.FrmThanhli.resources
+D:\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.NghiepVu.frmNghiepVu.resources
+D:\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.Properties.Resources.resources
+D:\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.ThemNL.resources
+D:\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.GenerateResource.cache
+D:\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.CoreCompileInputs.cache
+D:\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.CopyComplete
+D:\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.exe
+D:\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.pdb
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\EnvDTE.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\stdole.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\EnvDTE80.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\VSLangProj.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\VSLangProj80.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Newtonsoft.Json.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.MSXML.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.Build.Framework.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\VSLangProj2.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.exe.config
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Quanlikhohang.exe.config
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Quanlikhohang.exe
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Quanlikhohang.pdb
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\DocumentFormat.OpenXml.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\EntityFramework.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\EntityFramework.SqlServer.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\System.IO.Packaging.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\EnvDTE.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\stdole.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\EnvDTE80.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\VSLangProj.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\VSLangProj80.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Newtonsoft.Json.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.MSXML.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.Build.Framework.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\VSLangProj2.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\DocumentFormat.OpenXml.xml
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\EntityFramework.xml
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\EntityFramework.SqlServer.xml
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.csprojAssemblyReference.cache
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.exe.config
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.frmDangnhap.resources
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.FrmDanhmuc.resources
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.FrmThanhli.resources
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.NghiepVu.frmNghiepVu.resources
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.Properties.Resources.resources
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.ThemNL.resources
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.GenerateResource.cache
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.CoreCompileInputs.cache
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.CopyComplete
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.exe
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.pdb
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.FrmNhaCungCap.resources
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.Themncc.resources
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.FrmNhanVien.resources
+E:\ThucTapNhom\ThucTapNhom-QuanLiKhoHang\ThucTapCoSoDuLieu\Quanlikhohang\obj\Debug\Quanlikhohang.ThemNV.resources
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\Quanlikhohang.exe.config
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\Quanlikhohang.exe
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\Quanlikhohang.pdb
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\EntityFramework.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\System.IO.Packaging.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\EnvDTE.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\stdole.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\EntityFramework.xml
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\obj\Debug\Quanlikhohang.csprojAssemblyReference.cache
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\obj\Debug\Quanlikhohang.frmDangnhap.resources
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\obj\Debug\Quanlikhohang.FrmDanhmuc.resources
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\obj\Debug\Quanlikhohang.FrmNhaCungCap.resources
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\obj\Debug\Quanlikhohang.FrmNhanVien.resources
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\obj\Debug\Quanlikhohang.FrmThanhli.resources
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\obj\Debug\Quanlikhohang.NghiepVu.frmNghiepVu.resources
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\obj\Debug\Quanlikhohang.Properties.Resources.resources
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\obj\Debug\Quanlikhohang.Themncc.resources
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\obj\Debug\Quanlikhohang.ThemNL.resources
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\obj\Debug\Quanlikhohang.ThemNV.resources
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.GenerateResource.cache
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.CopyComplete
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\obj\Debug\Quanlikhohang.exe
+C:\Users\Quyet\Desktop\tt nhom\Quanlykho\Quanlikhohang\obj\Debug\Quanlikhohang.pdb
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\Quanlikhohang.exe.config
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\Quanlikhohang.exe
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\Quanlikhohang.pdb
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\EntityFramework.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\System.IO.Packaging.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\EnvDTE.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\stdole.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\EntityFramework.xml
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\obj\Debug\Quanlikhohang.csprojAssemblyReference.cache
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\obj\Debug\Quanlikhohang.frmDangnhap.resources
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\obj\Debug\Quanlikhohang.FrmDanhmuc.resources
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\obj\Debug\Quanlikhohang.FrmNhaCungCap.resources
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\obj\Debug\Quanlikhohang.FrmNhanVien.resources
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\obj\Debug\Quanlikhohang.FrmThanhli.resources
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\obj\Debug\Quanlikhohang.NghiepVu.frmNghiepVu.resources
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\obj\Debug\Quanlikhohang.Properties.Resources.resources
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\obj\Debug\Quanlikhohang.Themncc.resources
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\obj\Debug\Quanlikhohang.ThemNL.resources
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\obj\Debug\Quanlikhohang.ThemNV.resources
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.GenerateResource.cache
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.CoreCompileInputs.cache
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\obj\Debug\Quanlikhohang.csproj.CopyComplete
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\obj\Debug\Quanlikhohang.exe
+C:\Users\Quyet\Desktop\tt nhom\QL_Kho\Quanlikhohang\obj\Debug\Quanlikhohang.pdb

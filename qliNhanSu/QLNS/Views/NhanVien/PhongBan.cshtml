@@ -1,0 +1,9 @@
+﻿<div class="content">
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li><a href="@Url.Action("XemTheoLoai", new {@MaPB=item.MaPb })">@item.TenPb</a></li>
+        }
+
+    </ul>
+</div>
