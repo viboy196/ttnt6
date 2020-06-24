@@ -1,0 +1,129 @@
+C:\Users\trang\Videos\Desktop\Bai lam C#\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe.config
+C:\Users\trang\Videos\Desktop\Bai lam C#\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe
+C:\Users\trang\Videos\Desktop\Bai lam C#\QLDIEM\QLDIEM\bin\Debug\QLDIEM.pdb
+C:\Users\trang\Videos\Desktop\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csprojResolveAssemblyReference.cache
+C:\Users\trang\Videos\Desktop\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDangNhap.resources
+C:\Users\trang\Videos\Desktop\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmHocSinh.resources
+C:\Users\trang\Videos\Desktop\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmQL_Diem.resources
+C:\Users\trang\Videos\Desktop\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Properties.Resources.resources
+C:\Users\trang\Videos\Desktop\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.GenerateResource.Cache
+C:\Users\trang\Videos\Desktop\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
+C:\Users\trang\Videos\Desktop\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb
+C:\Users\trang\Videos\Desktop\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDiem.resources
+C:\Users\trang\Videos\Desktop\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmGiaoVien.resources
+C:\Users\trang\Videos\Desktop\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmLop.resources
+C:\Users\trang\Videos\Desktop\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmMonHoc.resources
+E:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe.config
+E:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
+E:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb
+E:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe
+E:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\bin\Debug\QLDIEM.pdb
+E:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csprojResolveAssemblyReference.cache
+E:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDangNhap.resources
+E:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDiem.resources
+E:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmGiaoVien.resources
+E:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmHocSinh.resources
+E:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmLop.resources
+E:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmMonHoc.resources
+E:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmQL_Diem.resources
+E:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Properties.Resources.resources
+E:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.GenerateResource.Cache
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe.config
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\bin\Debug\QLDIEM.pdb
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csprojResolveAssemblyReference.cache
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDangNhap.resources
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmGiaoVien.resources
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmHocSinh.resources
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmLop.resources
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmMonHoc.resources
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmQL_Diem.resources
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Properties.Resources.resources
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.GenerateResource.Cache
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDiemK2.resources
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDiemKyI.resources
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDoiMK.resources
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.BCKyI.resources
+D:\desktop 18042015\Bai lam C#\QLDIEM\QLDIEM\obj\Debug\QLDIEM.BCKyII.resources
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csprojAssemblyReference.cache
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.BCKyI.resources
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.BCKyII.resources
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDangNhap.resources
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDiemKyI.resources
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDiemK2.resources
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDoiMK.resources
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmGiaoVien.resources
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmHocSinh.resources
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmLop.resources
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmMonHoc.resources
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmQL_Diem.resources
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Properties.Resources.resources
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.GenerateResource.cache
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CoreCompileInputs.cache
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
+D:\dowload\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb
+D:\dowload\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe.config
+D:\dowload\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe
+D:\dowload\QLDIEM\QLDIEM\bin\Debug\QLDIEM.pdb
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe.config
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\bin\Debug\QLDIEM.pdb
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csprojAssemblyReference.cache
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.BCKyI.resources
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.BCKyII.resources
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDangNhap.resources
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDiemKyI.resources
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDiemK2.resources
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDoiMK.resources
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmGiaoVien.resources
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmHocSinh.resources
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmLop.resources
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmMonHoc.resources
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmQL_Diem.resources
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Properties.Resources.resources
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.GenerateResource.cache
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CoreCompileInputs.cache
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
+D:\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe.config
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\bin\Debug\QLDIEM.pdb
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csprojAssemblyReference.cache
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.BCKyI.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.BCKyII.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDangNhap.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDiemKyI.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDiemK2.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDoiMK.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmGiaoVien.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmHocSinh.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmLop.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmMonHoc.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmQL_Diem.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Properties.Resources.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.GenerateResource.cache
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CoreCompileInputs.cache
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythcs\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe.config
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\bin\Debug\QLDIEM.pdb
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csprojAssemblyReference.cache
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.BCKyI.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.BCKyII.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDangNhap.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDiemKyI.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDiemK2.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDoiMK.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmGiaoVien.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmHocSinh.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmLop.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmMonHoc.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmQL_Diem.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Properties.Resources.resources
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.GenerateResource.cache
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CoreCompileInputs.cache
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
+D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb
