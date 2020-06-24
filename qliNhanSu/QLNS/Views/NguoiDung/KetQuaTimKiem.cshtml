@@ -1,0 +1,51 @@
+﻿@model IEnumerable<QLNS.Models.entity.Account>
+
+@{
+    ViewBag.Title = "KetQuaTimKiem";
+    Layout = "~/Views/Shared/QLNS.cshtml";
+}
+
+<h2>Kết Quả Tìm Kiếm</h2>
+<div>@ViewBag.ThongBao</div>
+
+<div class="col-md-4">
+    <div class="form-search">
+        @using (Html.BeginForm("KetQuaTimKiem", "NguoiDung", FormMethod.Post))
+        {
+            @Html.TextBox("timkiem", "", htmlAttributes: new { @class = "boxTimkiem", @placeholder = "Tìm kiếm ..." })
+            @*button type="submit" class="btn" value="">click me</button>*@
+            <input type="submit" value="Tìm" />
+            @*<button type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>*@
+        }
+        @*<input type="text" class="input-medium search-query">*@
+    </div>
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nameaccount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Nameaccount)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Password)
+    </td>
+    <td>
+        @Html.ActionLink("Sửa", "ChinhSua", new { @tkhoan = item.Nameaccount }) |
+        @Html.ActionLink("Xóa", "Xoa", new { @tkhoan = item.Nameaccount })
+    </td>
+</tr>
+    }
+
+</table>

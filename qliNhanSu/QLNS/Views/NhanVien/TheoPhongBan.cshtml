@@ -1,0 +1,7 @@
+﻿        <li><a href="@Url.Action("Index","NhanVien")">Danh sách nhân viên</a></li>
+        <li><a href="@Url.Action("ThemMoi","NhanVien")">Thêm mới nhân viên</a></li>
+        @foreach (var item in Model)
+        {
+            <li><a href="@Url.Action("XemTheoLoai", new {@MaPB=item.MaPB})">@item.TenPb</a></li>
+        }
+

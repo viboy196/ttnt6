@@ -1,0 +1,60 @@
+﻿@model IEnumerable<QLNS.Models.entity.PhongBan>
+
+@{
+    ViewBag.Title = "KetQuaTimKiem";
+    Layout = "~/Views/Shared/QLNS.cshtml";
+}
+
+<h2>Kết quả tìm kiếm phòng ban</h2>
+<div>@ViewBag.ThongBao</div>
+<div class="col-md-4">
+    <div class="form-search">
+        @using (Html.BeginForm("KetQuaTimKiem", "PhongBan", FormMethod.Post))
+        {
+            @Html.TextBox("timkiem", "", htmlAttributes: new { @class = "boxTimkiem", @placeholder = "Tìm kiếm ..." })
+            @*button type="submit" class="btn" value="">click me</button>*@
+            <input type="submit" value="Tìm" />
+            @*<button type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>*@
+        }
+        @*<input type="text" class="input-medium search-query">*@
+    </div>
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TenPb)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SDT)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Diachi)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenPb)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SDT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Diachi)
+            </td>
+            <td>
+                @Html.ActionLink("Sửa", "ChinhSua", new { @Mapb = item.MaPB }) |
+                @Html.ActionLink("Chi tiết", "HienThi", new { @Mapb = item.MaPB }) |
+                @Html.ActionLink("Xóa", "Xoa", new { @Mapb = item.MaPB })
+            </td>
+        </tr>
+    }
+
+</table>
+<hr>
+@Html.ActionLink("Trở về", "Index")
+</hr>

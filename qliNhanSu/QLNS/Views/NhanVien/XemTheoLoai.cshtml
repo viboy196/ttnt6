@@ -1,0 +1,111 @@
+﻿@model IEnumerable<QLNS.Models.entity.NhanVien>
+
+@{
+    ViewBag.Title = "XemTheoLoai";
+    Layout = "~/Views/Shared/QLNS.cshtml";
+}
+
+<h2>Xem Theo Phòng Ban</h2>
+
+<div class="col-md-4">
+    <div class="form-search">
+        @using (Html.BeginForm("KetQuaTimKiem", "NhanVien", FormMethod.Post))
+        {
+            @Html.TextBox("timkiem", "", htmlAttributes: new { @class = "boxTimkiem", @placeholder = "Tìm kiếm ..." })
+            @*button type="submit" class="btn" value="">click me</button>*@
+            <input type="submit" value="Tìm" />
+            @*<button type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>*@
+        }
+        @*<input type="text" class="input-medium search-query">*@
+    </div>
+</div>
+<hr>
+@Html.ActionLink("Thêm mới nhân viên", "ThemMoi")
+</hr>
+<table class="table">
+    <tr>
+        @*<th>
+                @Html.DisplayNameFor(model => model.MaNV)
+            </th>*@
+        
+        <th>
+            @Html.DisplayNameFor(model => model.HoTen)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ngaysinh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GioiTinh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DanToc)
+        </th>
+        @*<th>
+                @Html.DisplayNameFor(model => model.QueQuan)
+            </th>*@
+        @*<th>
+                @Html.DisplayNameFor(model => model.SDT)
+            </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.PhongBan.TenPb)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ChucVu.TenCV)
+        </th>
+        @*<th>
+                @Html.DisplayNameFor(model => model.MaLuong)
+            </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.TrinhDoHV.TenTDHV)
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.MaNV)
+                </td>*@
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.HoTen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ngaysinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GioiTinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DanToc)
+            </td>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.QueQuan)
+                </td>*@
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.SDT)
+                </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.PhongBan.TenPb)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ChucVu.TenCV)
+            </td>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.MaLuong)
+                </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.TrinhDoHV.TenTDHV)
+            </td>
+
+            <td>
+                @Html.ActionLink("Sửa", "ChinhSua", new { @Manv = item.MaNV }) |
+                @Html.ActionLink("Chi tiết", "HienThi", new { @Manv = item.MaNV }) |
+                @Html.ActionLink("Xóa", "Xoa", new { @Manv = item.MaNV })
+            </td>
+        </tr>
+    }
+
+</table>
