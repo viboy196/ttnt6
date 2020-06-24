@@ -1,0 +1,72 @@
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.Form1.resources
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.frmDangNhap.resources
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.Properties.Resources.resources
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\bin\Debug\TTN_QLTV.exe.config
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\bin\Debug\TTN_QLTV.exe
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\bin\Debug\TTN_QLTV.pdb
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.exe
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.pdb
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.Sach.resources
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.DocGia.resources
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.NhanVien.resources
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.TacGia.resources
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.TheLoai.resources
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.TaiKhoan.resources
+C:\Users\admin\source\repos\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.NhuCauMuonSach.resources
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\bin\Debug\TTN_QLTV.exe.config
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\bin\Debug\TTN_QLTV.exe
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\bin\Debug\TTN_QLTV.pdb
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.csprojAssemblyReference.cache
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.DocGia.resources
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.Form1.resources
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.frmDangNhap.resources
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.NhanVien.resources
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.NhuCauMuonSach.resources
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.Properties.Resources.resources
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.Sach.resources
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.TacGia.resources
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.TaiKhoan.resources
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.TheLoai.resources
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.csproj.GenerateResource.cache
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.csproj.CoreCompileInputs.cache
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.exe
+D:\dowload\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.pdb
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\bin\Debug\TTN_QLTV.exe.config
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\bin\Debug\TTN_QLTV.exe
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\bin\Debug\TTN_QLTV.pdb
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.csprojAssemblyReference.cache
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.DocGia.resources
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.Form1.resources
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.frmDangNhap.resources
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.NhanVien.resources
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.NhuCauMuonSach.resources
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.Properties.Resources.resources
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.Sach.resources
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.TacGia.resources
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.TaiKhoan.resources
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.TheLoai.resources
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.csproj.GenerateResource.cache
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.csproj.CoreCompileInputs.cache
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.exe
+D:\tt nhom\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.pdb
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\bin\Debug\TTN_QLTV.exe.config
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\bin\Debug\TTN_QLTV.exe
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\bin\Debug\TTN_QLTV.pdb
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.csprojAssemblyReference.cache
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.DocGia.resources
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.Form1.resources
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.frmDangNhap.resources
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.NhanVien.resources
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.NhuCauMuonSach.resources
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.Properties.Resources.resources
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.Sach.resources
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.TacGia.resources
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.TaiKhoan.resources
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.TheLoai.resources
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.csproj.GenerateResource.cache
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.csproj.CoreCompileInputs.cache
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.exe
+D:\ttnt6\TTN_QLTV\TTN_QLTV\TTN_QLTV\obj\Debug\TTN_QLTV.pdb
