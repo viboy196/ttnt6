@@ -1,0 +1,49 @@
+﻿@model QLNS.Models.entity.PhongBan
+
+@{
+    ViewBag.Title = "HienThi";
+    Layout = "~/Views/Shared/QLNS.cshtml";
+}
+
+<h2>Chi Tiết Phòng Ban</h2>
+
+<div>
+    <h4>Phòng Ban</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.MaPB)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MaPB)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TenPb)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenPb)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SDT)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SDT)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Diachi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Diachi)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Sửa", "ChinhSua", new { @Mapb = Model.MaPB }) |
+    @Html.ActionLink("Trở về", "Index")
+</p>

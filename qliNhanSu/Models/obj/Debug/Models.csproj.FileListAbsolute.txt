@@ -1,0 +1,12 @@
+C:\Users\emtra\Documents\TTN\QuanLyNhanSuWeb\Models\bin\Debug\Models.dll.config
+C:\Users\emtra\Documents\TTN\QuanLyNhanSuWeb\Models\bin\Debug\Models.dll
+C:\Users\emtra\Documents\TTN\QuanLyNhanSuWeb\Models\bin\Debug\Models.pdb
+C:\Users\emtra\Documents\TTN\QuanLyNhanSuWeb\Models\bin\Debug\EntityFramework.dll
+C:\Users\emtra\Documents\TTN\QuanLyNhanSuWeb\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emtra\Documents\TTN\QuanLyNhanSuWeb\Models\bin\Debug\EntityFramework.xml
+C:\Users\emtra\Documents\TTN\QuanLyNhanSuWeb\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emtra\Documents\TTN\QuanLyNhanSuWeb\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\emtra\Documents\TTN\QuanLyNhanSuWeb\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\emtra\Documents\TTN\QuanLyNhanSuWeb\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\emtra\Documents\TTN\QuanLyNhanSuWeb\Models\obj\Debug\Models.dll
+C:\Users\emtra\Documents\TTN\QuanLyNhanSuWeb\Models\obj\Debug\Models.pdb

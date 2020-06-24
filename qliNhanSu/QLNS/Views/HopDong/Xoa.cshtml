@@ -1,0 +1,64 @@
+﻿@model QLNS.Models.entity.HopDong
+
+@{
+    ViewBag.Title = "Xoa";
+    Layout = "~/Views/Shared/QLNS.cshtml";
+}
+
+<h2>Xóa</h2>
+
+<h3>Bạn có muốn xóa hợp đồng với người này?</h3>
+<div>
+    <h4>Hợp Đồng</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.MaHD)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaHD)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LoaiHD)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LoaiHD)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TuNgay)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TuNgay)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DenNgay)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DenNgay)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaNV)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaNV)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("Trở về", "Index")
+        </div>
+    }
+</div>
