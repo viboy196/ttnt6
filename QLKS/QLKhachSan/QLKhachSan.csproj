@@ -144,6 +144,7 @@
     <Compile Include="Model\THUEPHONG.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\CHECKTONTAI.cs" />
     <EmbeddedResource Include="FormDatPhong.resx">
       <DependentUpon>FormDatPhong.cs</DependentUpon>
     </EmbeddedResource>

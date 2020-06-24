@@ -35,10 +35,20 @@ namespace QLKhachSan
 
         private void dgvPhong_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            int numrow;
-            numrow = e.RowIndex;
-            txtMaPhong.Text = dgvPhong.Rows[numrow].Cells[0].Value.ToString();
-            cbLoaiPhong.SelectedIndex =Int32.Parse(dgvPhong.Rows[numrow].Cells[1].Value.ToString()) - 1;          
+            try
+            {
+                int numrow;
+                numrow = e.RowIndex;
+                txtMaPhong.Text = dgvPhong.Rows[numrow].Cells[0].Value.ToString();
+                cbLoaiPhong.SelectedIndex = Int32.Parse(dgvPhong.Rows[numrow].Cells[1].Value.ToString()) - 1;
+            }
+            catch
+            {
+                txtMaPhong.Text = "";
+                cbLoaiPhong.SelectedIndex = 0;
+                MessageBox.Show("Vui lòng chọn nhân viên !", "Thong bao");
+            }
+                   
         }
 
         private void dgvLoaiPhong_CellClick(object sender, DataGridViewCellEventArgs e)

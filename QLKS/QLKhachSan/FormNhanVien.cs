@@ -35,25 +35,41 @@ namespace QLKhachSan
 
         private void dgvDSNV_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            int numrow;
-            numrow = e.RowIndex;
-            txtMaNV.Text = dgvDSNV.Rows[numrow].Cells[0].Value.ToString();
-            cbChucVu.SelectedIndex = Int32.Parse(dgvDSNV.Rows[numrow].Cells[1].Value.ToString()) - 1;
-            txtTenNV.Text = dgvDSNV.Rows[numrow].Cells[2].Value.ToString();
-            if (dgvDSNV.Rows[numrow].Cells[3].Value.ToString().Equals("nam"))
+            try
             {
-                rbNam.Checked = true;
+
+                int numrow;
+                numrow = e.RowIndex;
+                txtMaNV.Text = dgvDSNV.Rows[numrow].Cells[0].Value.ToString();
+                cbChucVu.SelectedIndex = Int32.Parse(dgvDSNV.Rows[numrow].Cells[1].Value.ToString()) - 1;
+                txtTenNV.Text = dgvDSNV.Rows[numrow].Cells[2].Value.ToString();
+                if (dgvDSNV.Rows[numrow].Cells[3].Value.ToString().Equals("nam"))
+                {
+                    rbNam.Checked = true;
+                }
+                else
+                {
+                    rbNu.Checked = true;
+                }
+                dtpNS.Value = Convert.ToDateTime(dgvDSNV.Rows[numrow].Cells[4].Value.ToString());
+                txtDiaChi.Text = dgvDSNV.Rows[numrow].Cells[5].Value.ToString();
+                txtSoDT.Text = dgvDSNV.Rows[numrow].Cells[6].Value.ToString();
+                txtCMND.Text = dgvDSNV.Rows[numrow].Cells[7].Value.ToString();
+                txtTenDN.Text = dgvDSNV.Rows[numrow].Cells[8].Value.ToString();
+                txtMK.Text = dgvDSNV.Rows[numrow].Cells[9].Value.ToString();
             }
-            else
+            catch
             {
-                rbNu.Checked = true;
+                txtMaNV.Text = "";
+                cbChucVu.SelectedIndex = 0;
+                txtTenNV.Text = "";
+                txtDiaChi.Text = "";
+                txtSoDT.Text = "";
+                txtCMND.Text = "";
+                txtTenDN.Text = "";
+                txtMK.Text = "";
+                MessageBox.Show("Vui lòng chọn nhân viên !", "Thong bao");
             }
-            dtpNS.Value = Convert.ToDateTime(dgvDSNV.Rows[numrow].Cells[4].Value.ToString());
-            txtDiaChi.Text = dgvDSNV.Rows[numrow].Cells[5].Value.ToString();
-            txtSoDT.Text = dgvDSNV.Rows[numrow].Cells[6].Value.ToString();
-            txtCMND.Text = dgvDSNV.Rows[numrow].Cells[7].Value.ToString();
-            txtTenDN.Text = dgvDSNV.Rows[numrow].Cells[8].Value.ToString();
-            txtMK.Text = dgvDSNV.Rows[numrow].Cells[9].Value.ToString();
         }
 
         private void btnThem_Click(object sender, EventArgs e)
@@ -70,11 +86,15 @@ namespace QLKhachSan
             int c = new NhanVienDao().addNV(new NHANVIEN { MaNV = Int32.Parse(txtMaNV.Text),idChucVu = Int32.Parse(cbChucVu.SelectedValue.ToString()), TenNV = txtTenNV.Text, GioiTinh = GT, NgaySinh = dtpNS.Value, DiaChi = txtDiaChi.Text, SoDT = txtSoDT.Text, CMT = txtCMND.Text, TenDangNhap = txtTenDN.Text, MatKhau = txtMK.Text });
             if (c > 0)
             {
-                MessageBox.Show("Thêm thành công !");
+                MessageBox.Show("Thêm thành công !", "Thông báo");
                 dgvDSNV.DataSource = new NhanVienDao().DSNV();
             }
+            else if (c == 0)
+            {
+                MessageBox.Show("Mã nhân viên đã tồn tại !", "Thông báo");
+            }
             else
-                MessageBox.Show("Thêm không thành công !");
+                MessageBox.Show("Thêm không thành công !", "Thông báo");
         }
 
         private void btnSua_Click(object sender, EventArgs e)
@@ -91,13 +111,12 @@ namespace QLKhachSan
             bool c = new NhanVienDao().updateNV(new NHANVIEN { MaNV = Int32.Parse(txtMaNV.Text), idChucVu = Int32.Parse(cbChucVu.SelectedValue.ToString()), TenNV = txtTenNV.Text, GioiTinh = GT, NgaySinh = dtpNS.Value, DiaChi = txtDiaChi.Text, SoDT = txtSoDT.Text, CMT = txtCMND.Text, TenDangNhap = txtTenDN.Text, MatKhau = txtMK.Text });
             if (c)
             {
-                MessageBox.Show("Cập nhật thành công !");
+                MessageBox.Show("Cập nhật thành công !", "Thông báo");
                 dgvDSNV.DataSource = new NhanVienDao().DSNV();
             }
+           
             else
-            {
-                MessageBox.Show("Cập nhật thất bại !");
-            }
+                MessageBox.Show("Thêm không thành công !", "Thông báo");
         }
 
         private void btnXoa_Click(object sender, EventArgs e)

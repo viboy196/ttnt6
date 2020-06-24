@@ -1,4 +1,5 @@
 ﻿using QLKhachSan.Model;
+using System.Data;
 using System.Linq;
 
 namespace QLKhachSan.DAO
@@ -17,6 +18,12 @@ namespace QLKhachSan.DAO
                 return true;
             else
                 return false;
+        }
+        public DataTable quyen(string tenDN)
+        {
+            string str = "SELECT idChucVu FROM NHANVIEN WHERE TenDangNhap = '" + tenDN + "'";
+            DataTable da = DataProvider.Instance.ExecuteQuery(str);
+            return da;
         }
     }
 }
