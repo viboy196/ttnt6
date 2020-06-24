@@ -25,8 +25,10 @@ namespace QLDIEM
 
         private void btnDoiMK_Click(object sender, EventArgs e)
         {
-            QLDiemTableAdapters.QueriesTableAdapter ds = new QLDiemTableAdapters.QueriesTableAdapter();
-            if (ds.DangNhap(lblNameUser.Text, txtMKCu.Text) == 1)
+           
+            string sql = "select * from DangNhap where TenDN='" + lblNameUser.Text + "' and MatKhau = '" + txtMKCu.Text + "'";
+            var dt = KetNoiDB.Getdatatable(sql);
+            if (dt.Rows.Count > 0)
             {
                 if (txtMKMoi.Text.Length != 0 && txtMKMoi.Text == txtRepeat.Text)
                 {

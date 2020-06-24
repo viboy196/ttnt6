@@ -114,15 +114,6 @@
     <Compile Include="KetNoiDB.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QLDiem.cs">
-      <DependentUpon>QLDiem.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="QLDiem.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>QLDiem.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="TruyenTs.cs" />
     <EmbeddedResource Include="BCKyI.resx">
       <DependentUpon>BCKyI.cs</DependentUpon>
     </EmbeddedResource>
@@ -182,17 +173,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="QLDiem.xsc">
-      <DependentUpon>QLDiem.xsd</DependentUpon>
-    </None>
-    <None Include="QLDiem.xsd">
-      <SubType>Designer</SubType>
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>QLDiem.Designer.cs</LastGenOutput>
-    </None>
-    <None Include="QLDiem.xss">
-      <DependentUpon>QLDiem.xsd</DependentUpon>
-    </None>
     <None Include="Resources\10696283_913661618645126_16254755197542410_n.jpg" />
   </ItemGroup>
   <ItemGroup>

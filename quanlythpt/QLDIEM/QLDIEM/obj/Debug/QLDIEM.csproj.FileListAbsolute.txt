@@ -127,3 +127,23 @@ D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\o
 D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CoreCompileInputs.cache
 D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
 D:\anhdan\STUDY\k8\Thực Tập Nhóm\tt nhom\tt nhom\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe.config
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\bin\Debug\QLDIEM.pdb
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csprojAssemblyReference.cache
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.BCKyI.resources
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.BCKyII.resources
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDangNhap.resources
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDiemKyI.resources
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDiemK2.resources
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmDoiMK.resources
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmGiaoVien.resources
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmHocSinh.resources
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmLop.resources
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmMonHoc.resources
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.frmQL_Diem.resources
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Properties.Resources.resources
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.GenerateResource.cache
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CoreCompileInputs.cache
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
+D:\ttnt6\quanlythpt\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb

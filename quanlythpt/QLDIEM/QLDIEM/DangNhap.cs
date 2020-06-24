@@ -20,14 +20,18 @@ namespace QLDIEM
 
         private void btnDangNhap_Click(object sender, EventArgs e)
         {
-            QLDiemTableAdapters.QueriesTableAdapter ds = new QLDiemTableAdapters.QueriesTableAdapter();
+            
+            var username = txtTenDangNhap.Text;
+            var password = txtMatKhau.Text;
+            string sql = "select * from DangNhap where TenDN='" + username + "' and MatKhau = '" + password + "'";
+            var dt = KetNoiDB.Getdatatable(sql);
             if ((txtTenDangNhap.Text.Length==0) || (txtMatKhau.Text.Length==0))
             {
                 MessageBox.Show("Bạn chưa nhập tên hoặc mật khẩu", "Thông báo", MessageBoxButtons.OK);
             }
             else
             {
-                if (ds.DangNhap(txtTenDangNhap.Text, txtMatKhau.Text) == 1)
+                if (dt.Rows.Count > 0)
                 {
                     this.Hide();
                     frmQL_Diem frm = new frmQL_Diem(txtTenDangNhap.Text);
