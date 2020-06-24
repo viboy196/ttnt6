@@ -1,12 +1,6 @@
 ﻿using QLKhachSan.DAO;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
@@ -47,6 +41,18 @@ namespace QLKhachSan
                 lvPhong.Items.Add(item);
             }
         }
+
+        private bool checkquyen()
+        {
+            if (FormLogin.quyen.Equals("admin"))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
         private void mnDoiMatKhau_Click(object sender, EventArgs e)
         {
             new FormDoiMatKhau().Show();
@@ -59,27 +65,58 @@ namespace QLKhachSan
 
         private void mnThuePhong_Click(object sender, EventArgs e)
         {
-            new FormThuePhong().Show();
+            this.Hide();
+            new FormThuePhong().ShowDialog();
+            this.Show();
         }
 
         private void mnPhong_Click(object sender, EventArgs e)
         {
-            new FormPhong().Show();
+            if (checkquyen())
+            {
+                new FormPhong().Show();
+            }
+            else
+            {
+                MessageBox.Show("Bạn chưa đủ quyền để thao tác !");
+            }
         }
 
         private void mnThietBiPhong_Click(object sender, EventArgs e)
         {
-            new FormThietBiPhong().Show();
+            if (checkquyen())
+            {
+                new FormThietBiPhong().Show();
+            }
+            else
+            {
+                MessageBox.Show("Bạn chưa đủ quyền để thao tác !");
+            }
         }
 
         private void mnDichVu_Click(object sender, EventArgs e)
         {
-            new FormDichVu().Show();
+            if (checkquyen())
+            {
+               new FormDichVu().Show();
+            }
+            else
+            {
+                MessageBox.Show("Bạn chưa đủ quyền để thao tác !");
+            }
+            
         }
 
         private void mnNhanVien_Click(object sender, EventArgs e)
         {
-            new FormNhanVien().Show();
+            if (checkquyen())
+            {
+                new FormNhanVien().Show();
+            }
+            else
+            {
+                MessageBox.Show("Bạn chưa đủ quyền để thao tác !");
+            }
         }
 
         private void mnThongTin_Click(object sender, EventArgs e)
@@ -101,6 +138,6 @@ namespace QLKhachSan
             new FormKhachHang().Show();
         }
 
-       
+        
     }
 }

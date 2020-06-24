@@ -111,6 +111,7 @@ namespace QLKhachSan
                 MessageBox.Show("Đặt phòng thành công !");
                 dgvDSDat.DataSource = new DatPhongDao().DSDatPhong();
                 bool d = new DatPhongDao().updateRoom(maPhong);
+
             }
             else
             {

@@ -5,6 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace QLKhachSan.DAO
 {
@@ -16,11 +17,41 @@ namespace QLKhachSan.DAO
             connectQLKS = new ConnectQLKS();
         }
 
+        public bool search(int ma)
+        {
+            try
+            {
+                var nv = connectQLKS.NHANVIENs.Find(ma);
+                if(nv == null)
+                {
+                    return false;
+                }
+                return true;
+            }
+            catch (Exception e)
+            {
+                return false;
+            }
+        }
         public int addNV(NHANVIEN nv)
         {
-            connectQLKS.NHANVIENs.Add(nv);
-            connectQLKS.SaveChanges();
-            return nv.MaNV;
+            if (search(nv.MaNV))
+            {     
+                return 0;
+            }
+            else
+            {
+                try
+                {
+                    connectQLKS.NHANVIENs.Add(nv);
+                    connectQLKS.SaveChanges();
+                    return nv.MaNV;
+                } 
+                catch
+                {
+                    return -1;
+                }
+            }
         }
         public DataTable DSNV()
         {

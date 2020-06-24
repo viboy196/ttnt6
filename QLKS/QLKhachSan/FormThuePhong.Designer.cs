@@ -28,25 +28,25 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.ListViewItem listViewItem1 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem8 = new System.Windows.Forms.ListViewItem(new string[] {
             "Mã Khách Hàng ",
             ""}, -1);
-            System.Windows.Forms.ListViewItem listViewItem2 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem9 = new System.Windows.Forms.ListViewItem(new string[] {
             "Tên Khách Hàng",
             ""}, -1);
-            System.Windows.Forms.ListViewItem listViewItem3 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem10 = new System.Windows.Forms.ListViewItem(new string[] {
             "Giới Tính",
             ""}, -1);
-            System.Windows.Forms.ListViewItem listViewItem4 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem11 = new System.Windows.Forms.ListViewItem(new string[] {
             "Ngày Sinh",
             ""}, -1);
-            System.Windows.Forms.ListViewItem listViewItem5 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem12 = new System.Windows.Forms.ListViewItem(new string[] {
             "Địa Chỉ",
             ""}, -1);
-            System.Windows.Forms.ListViewItem listViewItem6 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem13 = new System.Windows.Forms.ListViewItem(new string[] {
             "Số ĐT",
             ""}, -1);
-            System.Windows.Forms.ListViewItem listViewItem7 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem14 = new System.Windows.Forms.ListViewItem(new string[] {
             "Số CMND",
             ""}, -1);
             this.groupBox1 = new System.Windows.Forms.GroupBox();
@@ -77,7 +77,6 @@
             this.label7 = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.btnTraPhong = new System.Windows.Forms.Button();
-            this.btnSDDV = new System.Windows.Forms.Button();
             this.dgvDSThue = new System.Windows.Forms.DataGridView();
             this.groupBox1.SuspendLayout();
             this.tabControl1.SuspendLayout();
@@ -155,6 +154,7 @@
             this.cbMaPhong.Size = new System.Drawing.Size(192, 25);
             this.cbMaPhong.TabIndex = 7;
             this.cbMaPhong.SelectedIndexChanged += new System.EventHandler(this.cbMaPhong_SelectedIndexChanged);
+            this.cbMaPhong.Click += new System.EventHandler(this.cbMaPhong_Click);
             // 
             // cbMaKH
             // 
@@ -244,13 +244,13 @@
             this.lvKH.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lvKH.HideSelection = false;
             this.lvKH.Items.AddRange(new System.Windows.Forms.ListViewItem[] {
-            listViewItem1,
-            listViewItem2,
-            listViewItem3,
-            listViewItem4,
-            listViewItem5,
-            listViewItem6,
-            listViewItem7});
+            listViewItem8,
+            listViewItem9,
+            listViewItem10,
+            listViewItem11,
+            listViewItem12,
+            listViewItem13,
+            listViewItem14});
             this.lvKH.Location = new System.Drawing.Point(356, 10);
             this.lvKH.Margin = new System.Windows.Forms.Padding(2);
             this.lvKH.Name = "lvKH";
@@ -360,7 +360,6 @@
             // tabPage2
             // 
             this.tabPage2.Controls.Add(this.btnTraPhong);
-            this.tabPage2.Controls.Add(this.btnSDDV);
             this.tabPage2.Controls.Add(this.dgvDSThue);
             this.tabPage2.Location = new System.Drawing.Point(4, 26);
             this.tabPage2.Margin = new System.Windows.Forms.Padding(2);
@@ -373,7 +372,7 @@
             // 
             // btnTraPhong
             // 
-            this.btnTraPhong.Location = new System.Drawing.Point(514, 300);
+            this.btnTraPhong.Location = new System.Drawing.Point(307, 306);
             this.btnTraPhong.Margin = new System.Windows.Forms.Padding(2);
             this.btnTraPhong.Name = "btnTraPhong";
             this.btnTraPhong.Size = new System.Drawing.Size(142, 37);
@@ -381,17 +380,6 @@
             this.btnTraPhong.Text = "Trả Phòng";
             this.btnTraPhong.UseVisualStyleBackColor = true;
             this.btnTraPhong.Click += new System.EventHandler(this.btnTraPhong_Click);
-            // 
-            // btnSDDV
-            // 
-            this.btnSDDV.Location = new System.Drawing.Point(96, 300);
-            this.btnSDDV.Margin = new System.Windows.Forms.Padding(2);
-            this.btnSDDV.Name = "btnSDDV";
-            this.btnSDDV.Size = new System.Drawing.Size(142, 37);
-            this.btnSDDV.TabIndex = 1;
-            this.btnSDDV.Text = "Sử Dụng Dịch Vụ";
-            this.btnSDDV.UseVisualStyleBackColor = true;
-            this.btnSDDV.Click += new System.EventHandler(this.btnSDDV_Click);
             // 
             // dgvDSThue
             // 
@@ -453,7 +441,6 @@
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabPage tabPage2;
         private System.Windows.Forms.Button btnTraPhong;
-        private System.Windows.Forms.Button btnSDDV;
         private System.Windows.Forms.DataGridView dgvDSThue;
         private System.Windows.Forms.ColumnHeader columnHeader3;
         private System.Windows.Forms.ColumnHeader columnHeader4;

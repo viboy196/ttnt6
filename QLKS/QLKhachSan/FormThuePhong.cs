@@ -62,6 +62,7 @@ namespace QLKhachSan
 
         private void cbMaPhong_SelectedIndexChanged(object sender, EventArgs e)
         {
+
             lvPhong.Items.Clear();
             Regex regex = new Regex(@"[0-9]+");
             if (regex.IsMatch(cbMaPhong.Text))
@@ -77,29 +78,36 @@ namespace QLKhachSan
                     lvPhong.Items.Add(item);
                     giaPhong = float.Parse(dr["Gia"].ToString());
                 }
+           
             }           
         }
 
         private void btnThuePhong_Click(object sender, EventArgs e)
         {
-            int c = new ThuePhongDao().addPT(new THUEPHONG { MaThue = int.Parse(txtMaThue.Text), idKhachHang = int.Parse(cbMaKH.Text), idPhong = int.Parse(cbMaPhong.Text), NgayDi = dtpNgayDi.Value, NgayDen = dtpNgayDen.Value, GiaTien =float.Parse(txtTongTien.Text) });
-            if (c > 0)
+            try
             {
-                MessageBox.Show("Thuê phòng thành công !");
-                new ThuePhongDao().updateRoom(int.Parse(cbMaPhong.Text), "Da thue");
-                Load();
+                int c = new ThuePhongDao().addPT(new THUEPHONG { MaThue = int.Parse(txtMaThue.Text), idKhachHang = int.Parse(cbMaKH.Text), idPhong = int.Parse(cbMaPhong.Text), NgayDi = dtpNgayDi.Value, NgayDen = dtpNgayDen.Value, GiaTien = float.Parse(txtTongTien.Text) });
+                if (c > 0)
+                {
+                    FormMain f = new FormMain();
+                    MessageBox.Show("Thuê phòng thành công !", "Thông báo");
+                    new ThuePhongDao().updateRoom(int.Parse(cbMaPhong.Text), "Da thue");
+                    Load();
+                    cbMaKH.ValueMember = "";
 
+                }
+                else
+                {
+                    MessageBox.Show("Thuê thất bại !","Thông báo");
+                }
             }
-            else
+            catch
             {
-                MessageBox.Show("Thuê thất bại !");
+                MessageBox.Show("Thuê thất bại !", "Thông báo");
             }
         }
 
-        private void btnSDDV_Click(object sender, EventArgs e)
-        {
-
-        }
+     
 
         private void btnTraPhong_Click(object sender, EventArgs e)
         {
@@ -112,6 +120,7 @@ namespace QLKhachSan
                     MessageBox.Show("Trả phòng thành công !");
                     new ThuePhongDao().updateRoom(maPhong, "Trong");
                     dgvDSThue.DataSource = new ThuePhongDao().DSThuePhong();
+                    Load();
                 }
                 
             }
@@ -133,6 +142,12 @@ namespace QLKhachSan
                 MessageBox.Show("Hãy chọn phòng và thời gian bạn muốn ở !");
             }
             
+        }
+
+        private void cbMaPhong_Click(object sender, EventArgs e)
+        {
+
+    
         }
 
         private void dgvDSThue_CellClick(object sender, DataGridViewCellEventArgs e)
